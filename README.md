@@ -1,4 +1,4 @@
-Please note: I will push the required changes to support .NET 8 within the next few day (as of August 1st, 2024). It is a simple fix, but it works - and I want to share it with the community, of course. Please stand by for the changes to come :-)
+Please note: I will push the required changes to support .NET 8 within the next few days (as of August 1st, 2024). It is a simple fix, but it works - and I want to share it with the community, of course. Please stand by for the changes to come :-)
 
 # Nuget License Utility [![Build Status](https://travis-ci.com/tomchavakis/nuget-license.svg?branch=develop)](https://travis-ci.com/tomchavakis/nuget-license.svg?branch=develop) [![NuGet](https://img.shields.io/nuget/v/dotnet-project-licenses.svg)](https://www.nuget.org/packages/dotnet-project-licenses)
 
