@@ -1,4 +1,4 @@
-As promised, I have added .MET 6.0 and .NET 8 - support.
+As promised, I have added .NET 6.0 and .NET 8 - support.
 Cheers,
 Henrik
 
